@@ -1,6 +1,6 @@
 # distributed_sys_pro
 
-A project pursued towards the course Distributed Systems. It is a distributed FTP using a binary tree.
+A project pursued towards the course Distributed Systems. It is a distributed FTP using a binary tree architecture.
 
 Guidelines to run:
 <br />
